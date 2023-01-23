@@ -41,9 +41,17 @@
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> 
     </a> 
-    
-</p>
+    <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
+        <img src="https://user-images.githubusercontent.com/84765284/213995047-ca8ad5f5-cfa8-4d2c-821a-e221748a45bf.svg" alt="power-bi" width="40" height="40"/> 
+    </a>
+    <a href="https://docs.aws.amazon.com/lambda/latest/dg/welcome.html" target="_blank" rel="noreferrer"> 
+        <img src="https://user-images.githubusercontent.com/84765284/213995692-e8ebb3f2-ae66-48c7-9696-811929d90e62.png" alt="aws-lambda" width="40" height="40"/> 
+    </a>
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"> 
+        <img src="https://user-images.githubusercontent.com/84765284/213996368-988d5700-7f3e-45dd-8124-82360d41f0c1.png" alt="blazor" width="40" height="40"/> 
+    </a>
 
+</p>
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=astriddini7&show_icons=true&locale=en&layout=compact" alt="astriddini7" /></p>
