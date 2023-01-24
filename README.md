@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Astrid Dini</h1>
 <h3 align="center">A passionate .NET developer</h3>
 
-- 🔭 I’m currently working on [SimpliDOTS Distribution Management System (DMS)](https://www.simplidots.com/distribution-managemen-sistem/)
+- 🔭 I last worked on [SimpliDOTS Distribution Management System (DMS)](https://www.simplidots.com/distribution-managemen-sistem/)
 - 🌱 I’m currently learning .NET and Blazor
 - 📫 How to reach me **astriddini7@gmail.com**
 - ⚡ About Me **I Interest to learn or improve knowledge in Web Development**
+- 📝 Medium : [astrid dini](https://medium.com/@astriddini)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
