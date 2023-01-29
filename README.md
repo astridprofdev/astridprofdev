@@ -45,6 +45,9 @@
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/84765284/213996368-988d5700-7f3e-45dd-8124-82360d41f0c1.png" alt="blazor" width="40" height="40"/> 
     </a>
+    <a>
+        <img src="https://user-images.githubusercontent.com/84765284/215305720-82dc002a-3388-424a-82f5-5e4bc5f455b3.svg" alt="angular" width="40" height="40"/> 
+    </a>
 
 </p>
 
