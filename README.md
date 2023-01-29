@@ -48,7 +48,9 @@
     <a>
         <img src="https://user-images.githubusercontent.com/84765284/215305720-82dc002a-3388-424a-82f5-5e4bc5f455b3.svg" alt="angular" width="40" height="40"/> 
     </a>
-
+    <a>
+        <img src="https://user-images.githubusercontent.com/84765284/215305801-168df585-7b6f-43c7-ada7-3d92935d1ba7.png" alt="typescript" width="40" height="40"/> 
+    </a>
 </p>
 
 <p>
