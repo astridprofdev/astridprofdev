@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Astrid Dini</h1>
 <h3 align="center">A passionate .NET developer</h3>
 
-- 🔭 I last worked on [SimpliDOTS Distribution Management System (DMS)](https://www.simplidots.com/distribution-managemen-sistem/)
 - 🌱 I’m currently learning .NET and Blazor
 - 📫 How to reach me **astriddini7@gmail.com**
 - ⚡ About Me **I Interest to learn or improve knowledge in Web Development**
@@ -45,14 +44,11 @@
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/84765284/213996368-988d5700-7f3e-45dd-8124-82360d41f0c1.png" alt="blazor" width="40" height="40"/> 
     </a>
-    <a>
-        <img src="https://user-images.githubusercontent.com/84765284/215305720-82dc002a-3388-424a-82f5-5e4bc5f455b3.svg" alt="angular" width="40" height="40"/> 
-    </a>
-    <a>
-        <img src="https://user-images.githubusercontent.com/84765284/215305801-168df585-7b6f-43c7-ada7-3d92935d1ba7.png" alt="typescript" width="40" height="40"/> 
-    </a>
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=astriddini7&show_icons=true&locale=en&layout=compact" alt="astriddini7" /></p>
-
+<p align="left">
+<a href="https://github.com/astriddini7">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=astriddini7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=astriddini7&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
