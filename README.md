@@ -2,7 +2,7 @@
 <h3 align="center">A passionate .NET developer</h3>
 
 - 🌱 I’m currently learning .NET and Blazor
-- 📫 How to reach me **astriddini7@gmail.com**
+- 📫 How to reach me **astridmagang@gmail.com**
 - ⚡ About Me **I Interest to learn or improve knowledge in Web Development**
 - 📝 Medium : [astrid dini](https://medium.com/@astriddini)
 
