@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning .NET and Blazor
 - 📫 How to reach me **astridmagang@gmail.com**
 - ⚡ About Me **I Interest to learn or improve knowledge in Web Development**
-- 📝 Medium : [astrid dini](https://medium.com/@astriddini)
+- 📝 Medium : [astrid](https://medium.com/@astriddini)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
